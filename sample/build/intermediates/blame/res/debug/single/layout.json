@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_method.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_method.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\gv.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\gv.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sync.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_sync.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_abs_grid_text.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\item_abs_grid_text.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cache.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_cache.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_original.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_original.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_json.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_json.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fastjson.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_fastjson.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_redirect.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_redirect.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cacel.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_cacel.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_proxy.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_proxy.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\lv.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\lv.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\menu_button_text.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\menu_button_text.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\menu_button_image.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\menu_button_image.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_https.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\activity_https.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_abs_list_text.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\layout\\item_abs_list_text.xml"
+    }
+]

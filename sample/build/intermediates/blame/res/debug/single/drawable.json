@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_transprent_button_gound.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\drawable\\selector_transprent_button_gound.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_green_wechat_normal.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\drawable\\shape_green_wechat_normal.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_green_wechat_circle.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\drawable\\selector_green_wechat_circle.xml"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_green_wechat_pressed.xml",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\drawable\\shape_green_wechat_pressed.xml"
+    }
+]

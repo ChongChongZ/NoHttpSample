@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 73,
+                    "endOffset": 124
+                },
+                "from": {
+                    "file": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 80,
+                        "endOffset": 95
+                    }
+                }
+            }
+        ]
+    }
+]

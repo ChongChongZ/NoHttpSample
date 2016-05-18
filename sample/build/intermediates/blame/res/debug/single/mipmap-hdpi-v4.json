@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\no_http.jpg",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\mipmap-hdpi\\no_http.jpg"
+    },
+    {
+        "merged": "E:\\project_demo\\NoHttpSample\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\project_demo\\NoHttpSample\\sample\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

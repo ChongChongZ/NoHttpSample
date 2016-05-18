@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_cache_item">
+        <item>0 请求String</item>
+        <item>1 请求Image</item>
+    </string-array>
+    <string-array name="activity_method_item">
+        <item>0 GET</item>
+        <item>1 POST</item>
+        <item>2 PUT</item>
+        <item>3 HEAD</item>
+        <item>4 DELETE</item>
+        <item>5 OPTIONS</item>
+        <item>6 TRACE</item>
+        <item>7 PATCH</item>
+    </string-array>
+    <string-array name="activity_start_items">
+        <item>0. 最原始使用方法</item>
+        <item>1. 自定义请求对象(FastJson)</item>
+        <item>2. 请求方法演示(GET, POST…)</item>
+        <item>3. 请求图片(GET, POST…)</item>
+        <item>4. 请求Json(Jsonbject, JsonArray…)</item>
+        <item>5. 响应码304缓存演示</item>
+        <item>6. 响应码302/303重定向</item>
+        <item>7. 文件上传演示</item>
+        <item>8. 文件下载演示</item>
+        <item>9. 如何取消请求</item>
+        <item>10. 同步请求</item>
+        <item>11. 通过代理服务器请求</item>
+        <item>12. Https请求</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="blueqq_normal">#FF3BB5F4</color>
+    <color name="blueqq_pressed">#FF1993e2</color>
+    <color name="font_color">#FF333333</color>
+    <color name="font_color_more_text">#BB000000</color>
+    <color name="gray">#FF888888</color>
+    <color name="green">#FF00FF00</color>
+    <color name="greenwechat_normal">#FF45C01A</color>
+    <color name="greenwechat_pressed">#FF298409</color>
+    <color name="line_color">#C4C4C4</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="page_ground">#FFEFEFF4</color>
+    <color name="purple">#FFA020F0</color>
+    <color name="red">#FFFF0000</color>
+    <color name="red_normal">#FFFF4500</color>
+    <color name="red_pressed">#FFB22222</color>
+    <color name="title_ground_normal">#FF1B7AEA</color>
+    <color name="title_ground_pressed">#FF2C8BDB</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half_1">#10000000</color>
+    <color name="transparent_half_2">#20000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_normal">#FFFFFFFF</color>
+    <color name="white_pressed">#FFE0E0E0</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="yellowweibo_normal">#FFFCDA53</color>
+    <color name="yellowweibo_pressed">#FFDAB831</color>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_25">25dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_35">35dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_45">45dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+    <dimen name="text_size_35">35sp</dimen>
+    <dimen name="text_size_40">40sp</dimen>
+    <drawable name="transparent">#00000000</drawable>
+    <string name="activity_start">NoHttp演示Demo</string>
+    <string name="app_name">NoHttpSample</string>
+    <string name="download_start">开始下载</string>
+    <string name="no_opration_des">请看本Activity的代码和注释</string>
+    <string name="reqeust_fastjson">自定义FastJson请求</string>
+    <string name="reqeust_json_array">JsonArray对象</string>
+    <string name="reqeust_json_object">JsonObject对象</string>
+    <string name="reqeust_proxy">通过代理访问Google</string>
+    <string name="reqeust_start">发起请求</string>
+    <string name="reqeust_sync">同步请求</string>
+    <string name="request_https_ver">Https证书请求</string>
+    <string name="upload_start">开始上传</string>
+    <style name="AbsItemGroup" parent="LayoutStyle_WidthMatch">
+        <item name="android:layout_height">?android:attr/actionBarSize</item>
+        <item name="android:background">@drawable/selector_green_wechat_circle</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="AbsListViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:listSelector">@android:color/transparent</item>
+        <item name="android:gravity">top</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <item name="android:divider">@color/transparent</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">@color/font_color</item>
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:windowBackground">@color/page_ground</item>
+    </style>
+    <style name="ButtonStyle_WidthMatch" parent="TextViewStyle_WidthMatch">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/selector_green_wechat_circle</item>
+    </style>
+    <style name="GridItemGroup" parent="AbsItemGroup">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="GridViewList" parent="AbsListViewStyle">
+        <item name="android:verticalSpacing">@dimen/dp_20</item>
+        <item name="android:horizontalSpacing">@dimen/dp_20</item>
+        <item name="android:numColumns">3</item>
+    </style>
+    <style name="ImageViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">false</item>
+    </style>
+    <style name="ImageViewStyle_WidthMatch" parent="ImageViewStyle">
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="ImageViewStyle_WidthMatch_Original" parent="ImageViewStyle_WidthMatch">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/dp_20</item>
+    </style>
+    <style name="LayoutStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="LayoutStyle_HeightMatch" parent="LayoutStyle">
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="LayoutStyle_Match">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="LayoutStyle_WidthMatch" parent="LayoutStyle">
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="ListItemGroup" parent="AbsItemGroup">
+        <item name="android:paddingLeft">@dimen/dp_10</item>
+        <item name="android:paddingRight">@dimen/dp_10</item>
+    </style>
+    <style name="ListViewStyle" parent="AbsListViewStyle">
+        <item name="android:dividerHeight">@dimen/dp_20</item>
+    </style>
+    <style name="ScrollViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ScrollViewStyle_Padding20" parent="ScrollViewStyle">
+        <item name="android:padding">@dimen/dp_20</item>
+    </style>
+    <style name="TextGridItem" parent="TextViewStyle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextListItem" parent="TextViewStyle_WidthMatch">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextViewStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextViewStyle_HeightMatch" parent="TextViewStyle">
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="TextViewStyle_WidthMatch" parent="TextViewStyle">
+        <item name="android:layout_width">match_parent</item>
+    </style>
+</resources>

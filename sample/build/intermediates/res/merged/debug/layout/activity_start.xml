@@ -1,0 +1,6 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ScrollViewStyle_Padding20" >
+
+    <include layout="@layout/lv" />
+
+</ScrollView>
